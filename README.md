@@ -1,6 +1,6 @@
 # is_up
 
-Check whether a website is up or down for Deno.
+Check whether a website is up or down in Deno.
 
 ## ❗ Issues
 
